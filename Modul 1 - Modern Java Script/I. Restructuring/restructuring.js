@@ -7,3 +7,5 @@ var pemainSepakBola ={
 };
 
 pemainSepakBola.output();
+//
+//pemainSepakBola.alert();

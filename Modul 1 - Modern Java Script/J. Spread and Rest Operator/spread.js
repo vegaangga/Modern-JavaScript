@@ -1,4 +1,5 @@
-var mountains = ['Semeru','Bromo','Merapi'];
+//var mountains = ['Semeru','Bromo','Merapi'];
+let mountains = ['Semeru','Bromo','Merapi'];
 var mountainsFromJapan = ['fuji'];
 
 var allMountains = [...mountains, ...mountainsFromJapan];

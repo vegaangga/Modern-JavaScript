@@ -3,3 +3,5 @@ if (true){
     name = 'Politeknik Negeri Malang';
     alert(name);
 }
+
+// Didalam Block Let tidak bisa digunakan

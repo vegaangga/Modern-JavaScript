@@ -1,3 +1,4 @@
+//Super class
 class Holiday{
     constructor(destination,day){
         this.destination =destination;
