@@ -1,0 +1,28 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: aqua;
+  }
+  .cont {
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 150px;
+    background-image: "url(/jogja.jpg)";
+  }
+  
+  .button {
+    border-radius: 8px;
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    margin-left: 70px;
+    margin-top: 100px;
+  }
+  .cont2 {
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 150px;
+    background-color: yellow;
+  }
