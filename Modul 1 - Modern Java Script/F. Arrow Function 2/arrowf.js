@@ -5,7 +5,7 @@
 // alert(func(3,3));
 
 
-// const func = (a, b) => {
-//     return a + b;
-// };
-// alert(func(5,4));
+const func = (a, b) => {
+    return a + b;
+};
+alert(func(5,4));
