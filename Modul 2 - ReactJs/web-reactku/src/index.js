@@ -12,9 +12,9 @@ import reportWebVitals from './reportWebVitals';
 //   document.getElementById('root')
 // );
 
-// const Hello = () =>{
-//   return <p>Hello</p>
-// }
+const Hello = () =>{
+  return <p>Hello</p>
+}
 
 //ReactDOM.render(<App />, document.getElementById('root'));
 //ReactDOM.render(<Hello />, document.getElementById('root'));
