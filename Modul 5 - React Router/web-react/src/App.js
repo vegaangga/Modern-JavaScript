@@ -37,7 +37,7 @@ export default function NestingAuthExample() {
           <Nav.Link href="#"><AuthButton /></Nav.Link>
         </Nav>
         </Container>
-    </Navbar>
+      </Navbar>
 
       <div className="bghome">
         <br></br>
