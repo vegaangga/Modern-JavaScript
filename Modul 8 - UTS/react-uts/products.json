@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "ac1.webp",
+      "name": "AC Daikin FTP 15AV14",
+      "description": "ESM05CRR-C1, Breathe fresher air with I-Clean, Enjoy healthier home with X-Fan",
+      "price": "1234500",
+      "stock": 137
+    },
+    {
+      "id": 2,
+      "img": "ac2.webp",
+      "name": "AC Sharp AH-A 5UCY",
+      "description": "ESM12CRR-C1, Breathe fresher air with I-Clean, Enjoy healthier home with X-Fan",
+      "price": "2345000",
+      "stock": 12
+    },
+    {
+      "id": 3,
+      "img": "ac3.webp",
+      "name": "AC Panasonic CS-LN7WKJ",
+      "description": "ESM18CRR-C1, Breathe fresher air with I-Clean, Enjoy healthier home with X-Fan",
+      "price": "29000000",
+      "stock": "300"
+    },
+    {
+      "id": 4,
+      "img": "ac4.webp",
+      "name": "AC Gree GWC-05M003",
+      "description": "ESM09CRR-C1, Breathe fresher air with I-Clean, Enjoy healthier home with X-Fan",
+      "price": "2398000",
+      "stock": 9
+    },
+    {
+      "id": 5,
+      "img": "ac5.webp",
+      "name": "Vita+ Cool Air Conditioner ESM09CRH-B1",
+      "description": "ESM09CRH-B1, ELECTROLUX VITA AIR CONDITIONER",
+      "price": "2549000",
+      "stock": "100"
+    },
+    {
+      "id": 6,
+      "img": "ac6.webp",
+      "name": "AC LG T10EV4 1 pk DUAL INVERTER",
+      "description": "ESM09CRI-B2, ELECTROLUX VITA AIR CONDITIONER",
+      "price": "2300000",
+      "stock": "20"
+    },
+    {
+      "id": 7,
+      "img": "ac7.webp",
+      "name": "AC Samsung AR05TGHQASINSE",
+      "description": "ESM05CRH-A1, ELECTROLUX VITA AIR CONDITIONER",
+      "price": "1200000",
+      "stock": 68
+    },
+    {
+      "id": 8,
+      "img": "ac8.webp",
+      "name": "AC AUX ASW-07A4/FHR1",
+      "description": "ESM05CRI-A1, 3 in 1 Integrated Air Purifier, I Feel, Goldtech Protection",
+      "price": "2155000",
+      "stock": "89"
+    },
+    {
+      "id": 9,
+      "img": "ac8.webp",
+      "name": "AC CHANGHONG R410a CSC-09NVB",
+      "description": "ESM05CRI-A1, 3 in 1 Integrated Air Purifier, I Feel, Goldtech Protection",
+      "price": "22104000",
+      "stock": "27"
+    },
+    {
+      "id": 10,
+      "img": "ac8.webp",
+      "name": "AC Haier HSU-09GTX03",
+      "description": "ESM05CRI-A1, 3 in 1 Integrated Air Purifier, I Feel, Goldtech Protection",
+      "price": "2205000",
+      "stock": "27"
+    }
+  ]
+}
