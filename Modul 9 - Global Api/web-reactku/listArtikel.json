@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "magnam facilis autem",
+      "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
+    },
+    {
+      "userId": 1,
+      "id": 1647398297148,
+      "title": "hi",
+      "body": "hi juga"
+    },
+    {
+      "userId": 1,
+      "id": 1650521874097,
+      "title": "dsada",
+      "body": "wdwd"
+    },
+    {
+      "userId": 1,
+      "id": 1651065390341,
+      "title": "Tes",
+      "body": "Yaw"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
