@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "masdim": "login-dimas",
+    "default": "login-dimas"
+  },
+  "targets": {}
+}
